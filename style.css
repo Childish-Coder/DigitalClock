@@ -21,9 +21,9 @@
    right: 20%;
    border-radius: 10px;
    min-width: 50px;
-   width: 10vw;
+   width: 10vmax;
    min-height: 50px;
-   height: 10vw;
+   height: 10vmax;
    background: linear-gradient(#E1E154, #E9644F);
    animation: animate 5s ease-in-out infinite;
 }
@@ -35,9 +35,9 @@
    left: 20%;
    border-radius: 10px;
    min-width: 50px;
-   width: 10vw;
+   width: 10vmax;
    min-height: 50px;
-   height: 10vw;
+   height: 10vmax;
    background: linear-gradient(#B83DE6, #5D3EF3);
    animation: animate 5s ease-in-out infinite;
    animation-delay: -2.5s;
